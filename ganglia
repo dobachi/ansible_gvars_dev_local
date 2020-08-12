@@ -1,0 +1,2 @@
+ganglia_slave_dev: "ens5"
+ganglia_slave_use_unicast: True

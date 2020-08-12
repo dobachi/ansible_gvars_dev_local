@@ -1,0 +1,3 @@
+common_hosts_tmpl: "hosts.dev_local"
+common_config_hostname: True
+common_hosts_replace: True
